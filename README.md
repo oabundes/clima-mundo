@@ -9,7 +9,7 @@ npm install
 
 ```
 
-### Ejemplo:
+### Ejemplo de uso:
 
 ```
 
